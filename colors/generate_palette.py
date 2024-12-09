@@ -65,21 +65,21 @@ dark_text_rules = {
 # Define the color palettes
 light_theme = [
     {"purpose": "Primary", "color": "#A7C7E7"},
-    {"purpose": "Primary Variant", "color": "#89B9DF"},
+    {"purpose": "Primary Variant", "color": "#89AFD7"},
     {"purpose": "Secondary", "color": "#FFD7BA"},
     {"purpose": "Secondary Variant", "color": "#FFC4A3"},
-    {"purpose": "Background", "color": "#FFF7F1"},
-    {"purpose": "Surface", "color": "#FFFDF6"},
+    {"purpose": "Background", "color": "#FAEFE6"},
+    {"purpose": "Surface", "color": "#F5E8DE"},
     {"purpose": "Text Primary", "color": "#333333"},
     {"purpose": "Text Secondary", "color": "#666666"},
-    {"purpose": "Accent", "color": "#B9E4C9"},
+    {"purpose": "Accent", "color": "#98D4A8"},
     {"purpose": "Error", "color": "#F5A6A6"},
-    {"purpose": "Warning", "color": "#FFE7A9"},
-    {"purpose": "Success", "color": "#B8E2C8"},
+    {"purpose": "Warning", "color": "#F5D47F"},
+    {"purpose": "Success", "color": "#98D4A8"},
     {"purpose": "Highlight", "color": "#D4B5E6"},
     {"purpose": "Disabled/Inactive", "color": "#E0E0E0"},
     {"purpose": "Border", "color": "#DADADA"},
-    {"purpose": "Shadow", "color": "#FAF3EF"}
+    {"purpose": "Shadow", "color": "#FAEFE6"}
 ]
 
 dark_theme = [

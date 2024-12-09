@@ -1,4 +1,4 @@
-# Sakura Color Scheme - Dark Theme
+# Sakura Dark Theme 🌸
 
 The dark theme of the Sakura color scheme provides a sleek and elegant look with muted pastel tones. It is designed for comfortable viewing in low-light environments.
 
@@ -22,8 +22,3 @@ The dark theme of the Sakura color scheme provides a sleek and elegant look with
 | **Disabled/Inactive**   | Dark Grey             | `#424242`     |
 | **Border**              | Deep Cool Grey        | `#303030`     |
 | **Shadow**              | Muted Black           | `#0D0D0D`     |
-
-## Example Use Cases
-- **Background**: Use Deep Charcoal (`#121212`) for app backgrounds.
-- **Primary Buttons**: Use Soft Aqua (`#80CBC4`) with Off White (`#F1F1F1`) text.
-- **Error States**: Use Muted Rose (`#EF9A9A`) for error messages.

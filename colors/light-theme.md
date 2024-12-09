@@ -1,29 +1,24 @@
-# Sakura Color Scheme - Light Theme
+# Sakura Light Theme 🌸
 
-The light theme of the Sakura color scheme offers a bright and airy design with soft pastel tones. It is suitable for applications that aim to provide a calming and modern aesthetic.
+The Sakura Light theme is inspired by the serene and beautiful hues of cherry blossoms, with pastel tones optimized for a bright and soothing coding environment.
 
-## Palette
+## Color Palette
 
-| **Purpose**            | **Color**             | **Hex Code**  |
-|-------------------------|-----------------------|---------------|
-| **Primary**             | Pastel Blue           | `#A7C7E7`     |
-| **Primary Variant**     | Powder Blue           | `#89B9DF`     |
-| **Secondary**           | Pastel Peach          | `#FFD7BA`     |
-| **Secondary Variant**   | Light Coral           | `#FFC4A3`     |
-| **Background**          | White Sand            | `#FFF7F1`     |
-| **Surface**             | Light Cream           | `#FFFDF6`     |
-| **Text Primary**        | Charcoal Grey         | `#333333`     |
-| **Text Secondary**      | Warm Grey             | `#666666`     |
-| **Accent**              | Mint Green            | `#B9E4C9`     |
-| **Error**               | Pastel Red            | `#F5A6A6`     |
-| **Warning**             | Pastel Yellow         | `#FFE7A9`     |
-| **Success**             | Pastel Green          | `#B8E2C8`     |
-| **Highlight**           | Soft Lavender         | `#D4B5E6`     |
-| **Disabled/Inactive**   | Light Grey            | `#E0E0E0`     |
-| **Border**              | Light Pastel Grey     | `#DADADA`     |
-| **Shadow**              | Subtle Cream Shadow   | `#FAF3EF`     |
-
-## Example Use Cases
-- **Background**: Use White Sand (`#FFF7F1`) for app backgrounds.
-- **Primary Buttons**: Use Pastel Blue (`#A7C7E7`) with Charcoal Grey (`#333333`) text.
-- **Error States**: Use Pastel Red (`#F5A6A6`) for error messages.
+| Role                        | Hex Code   | Description            |
+|-----------------------------|------------|------------------------|
+| **Background**              | `#FAEFE6`  | Cherry Blossom Shade   |
+| **Foreground**              | `#333333`  | Soft Ink               |
+| **Primary Accent**          | `#A7C7E7`  | Sky Accent             |
+| **Secondary Accent**        | `#FFD7BA`  | Peach Mist             |
+| **Strings**                 | `#98D4A8`  | Forest Pastel          |
+| **Variables**               | `#89AFD7`  | Sky Blossom            |
+| **Numbers/Constants**       | `#F5D47F`  | Sunflower Mist         |
+| **Keywords**                | `#F5A6A6`  | Petal Pink             |
+| **Types**                   | `#D4B5E6`  | Lavender Hue           |
+| **Comments**                | `#666666`  | Gentle Ash             |
+| **UI Background**           | `#F5E8DE`  | Blossom Veil           |
+| **UI Foreground**           | `#333333`  | Soft Ink               |
+| **Button Background**       | `#89AFD7`  | Sky Blossom            |
+| **Button Hover Background** | `#6B9EC6`  | Sky Mist               |
+| **Tab Active Background**   | `#F5E8DE`  | Blossom Veil           |
+| **Tab Inactive Background** | `#FAEFE6`  | Cherry Mist            |
